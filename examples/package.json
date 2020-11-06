@@ -1,0 +1,14 @@
+{
+  "name": "ramda-examples",
+  "version": "1.0.0",
+  "description": "Some examples of Ramda principals",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
